@@ -1,5 +1,5 @@
 body{
-	background-image:url(images/toby-wong-222780.jpg);
+	background-image:url(images/jordan-mcqueen-31296.jpg);
 	background-size:cover;
 	font-family:Raleway,Open Sans,Droid Sans,arial,sans-serif;
 }
@@ -18,14 +18,16 @@ body{
 
 h1,h2{
 	font-weight:100;
+	color:#FFFFFF;
 }
 h2{
 	font-size:18px;
+	color:#FFFFFF;
 }
 
-.social-links{margin-top:50px;}
+.social-links{margin-top:45px;}
 a{
-	color:#333;
+	color:#FFFFFF;
 	text-decoration:none;
 }
 a:hover{text-decoration: underline}
